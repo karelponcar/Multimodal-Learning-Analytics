@@ -6,7 +6,9 @@ Everything about the group assignment is [here](https://ntnu.blackboard.com/weba
 
 The presentation can be also found [here](doc/Presentation-data-TDT4259.pdf) in doc directory.
 
-https://docs.google.com/document/d/1suhNgJaQLsc60vBxkJmSZ6uqF26_LzM_iOWal7a6nJc/edit?usp=sharing
+The TODO sheet [here](https://docs.google.com/document/d/1suhNgJaQLsc60vBxkJmSZ6uqF26_LzM_iOWal7a6nJc/edit?usp=sharing)
+
+The report [here](https://docs.google.com/document/d/1O9M1REy7R82Erd1wQ23R5hsVDi0EJeKQcWNsN34IcQI/edit?usp=sharing)
 
 ## What questions to ask from the dataset
 
