@@ -6,6 +6,8 @@ Everything about the group assignment is [here](https://ntnu.blackboard.com/weba
 
 The presentation can be also found [here](doc/Presentation-data-TDT4259.pdf) in doc directory.
 
+https://docs.google.com/document/d/1suhNgJaQLsc60vBxkJmSZ6uqF26_LzM_iOWal7a6nJc/edit?usp=sharing
+
 ## What questions to ask from the dataset
 
 This is list of what could potentially be analysed on the dataset.
@@ -18,5 +20,6 @@ This is list of what could potentially be analysed on the dataset.
 ## Grading criteria
 
 ![grading_criteria](doc/grading_criteria.png)
+
 
 
